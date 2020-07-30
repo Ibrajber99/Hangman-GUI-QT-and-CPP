@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>Images/gallows0.png</file>
+        <file>Images/gallows1.png</file>
+        <file>Images/gallows2.png</file>
+        <file>Images/gallows3.png</file>
+        <file>Images/gallows4.png</file>
+        <file>Images/gallows5.png</file>
+        <file>Images/gallows6.png</file>
+        <file>Images/gallowsLost.png</file>
+        <file>Images/gallowsWon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>words2.txt</file>
+    </qresource>
+</RCC>
